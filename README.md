@@ -20,7 +20,7 @@ By integrating advanced *Random Forest Classification* with core principles of c
 ![Result](https://drive.google.com/file/d/1c1CdmfZA5C7mvsbbRln0gR082Ifuc7Qb/view?usp=sharing)
 
 ### Result 2
-![Result](https://drive.google.com/file/d/1YS-yKtGouRwZutEAjJEOe1RPIlM84XCy/view?usp=sharing)
+![Result](https://drive.google.com/file/d/1YS-yKtGouRwZutEAjJEOe1RPIlM84XCy/view?usp=drive_link)
 
 
 ---
