@@ -14,7 +14,7 @@ By integrating advanced *Random Forest Classification* with core principles of c
 ## Output Screenshots
 
 ### Landing Page
-[HomePage](https://drive.google.com/file/d/1ztXpC-FfILS00TDU0tIsTdjJRF1ICstC/view?usp=drive_link)
+![HomePage](https://drive.google.com/uc?export=view&id=1ztXpC-FfILS00TDU0tIsTdjJRF1ICstC)
 
 
 ### Result 1
